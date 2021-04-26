@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Budget App with React Hooks and Context API.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +68,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Credits
+
+This is based on a [Code And Create](https://www.youtube.com/channel/UCtOmmC3Z8WSn45VgTAKBHhA) Tutorial. Developed for Academical Purposes.
