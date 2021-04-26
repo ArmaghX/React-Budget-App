@@ -3,6 +3,7 @@ import './App.css';
 
 import Header from './components/Header';
 import Balance from './components/Balance';
+import AddTransaction from './components/AddTransaction';
 
 const App = () => {
     return (
@@ -10,6 +11,7 @@ const App = () => {
             <div className="app-wrapper">
                 <Header />
                 <Balance />
+                <AddTransaction />
             </div>
         </div>
     )
